@@ -7,7 +7,7 @@ import Register from "./pages/Register.jsx";
 import Dashboard from "./pages/DashBoard.jsx";
 import AskDoubt from "./pages/AskDoubt.jsx";
 import SavedQuestions from "./pages/SavedQuestions.jsx";
-import Analytics from "./pages/analytics";
+import Analytics from "./pages/Analytics";
 import PropTypes from "prop-types";
 
 const ProtectedRoute = ({ children }) => {
